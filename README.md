@@ -116,8 +116,8 @@ Estou aprimorando meus conhecimentos em automação de testes com os uso de ferr
 
 <img 
     align="left" 
-    alt="Cypress" 
-    title="Cypress"
+    alt="Selenium" 
+    title="Selenium"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" 
