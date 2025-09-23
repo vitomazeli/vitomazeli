@@ -8,18 +8,21 @@ Me chamo Vitória Tomazeli, tenho 25 anos, sou **Analista de Testes de Software*
 Atualmente, curso ensino superior em **Desenvolvimento de Software Multiplataforma** na Fatec Zona Leste com previsão de conclusão em 2026. 
 Estou aprimorando meus conhecimentos em automação de testes com os uso de ferramentas como o **Selenium** e o **Cypress**.
 
+ <p align="left">
+  
+
     <a href="https://github.com/vitomazeli?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/vitomazeli?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/vitomazeli?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/vitomazeli?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
