@@ -4,7 +4,7 @@
 
 **`Analista de Testes de Software`**
 
-Me chamo Vitória Tomazeli, tenho 25 anos, sou **Analista de Testes de Software** com foco em aplicações de pagamentos, trabalho na área desde maio de 2024.
+Me chamo Vitória Tomazeli, tenho 26 anos, sou **Analista de Testes de Software** com foco em aplicações de pagamentos, trabalho na área desde maio de 2024.
 Atualmente, curso ensino superior em **Desenvolvimento de Software Multiplataforma** na Fatec Zona Leste com previsão de conclusão em 2026. 
 Estou aprimorando meus conhecimentos em automação de testes com os uso de ferramentas como o **Selenium** e o **Cypress**.
 
