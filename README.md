@@ -53,6 +53,16 @@ Estou aprimorando meus conhecimentos em automação de testes com os uso de ferr
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+/>
+     
 <img 
     align="left" 
     alt="Bootstrap"
@@ -103,28 +113,8 @@ Estou aprimorando meus conhecimentos em automação de testes com os uso de ferr
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" 
-/>          
+/>        
+
+     
       
 
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=vitomazeli&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitomazeli&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
