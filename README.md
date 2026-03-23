@@ -1,7 +1,3 @@
-## Vitoria
-
-# 👩🏻‍💻 Vitória Tomazeli
-
 **`Analista de Testes de Software`**
 
 # 👩‍💻 Vitória Tomazeli
