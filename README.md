@@ -4,9 +4,36 @@
 
 **`Analista de Testes de Software`**
 
-Me chamo Vitória Tomazeli, tenho 26 anos, sou **Analista de Testes de Software** com foco em aplicações de pagamentos, trabalho na área desde maio de 2024.
-Atualmente, curso ensino superior em **Desenvolvimento de Software Multiplataforma** na Fatec Zona Leste com previsão de conclusão em 2026. 
-Estou aprimorando meus conhecimentos em automação de testes com os uso de ferramentas como o **Selenium** e o **Cypress**.
+# 👩‍💻 Vitória Tomazeli
+
+QA Automation Engineer focused on web and API testing.
+
+🔍 Experience with:
+- Playwright (Python)
+- Cypress (JavaScript)
+- REST API testing (RestAssured)
+
+💡 I focus on building reliable automated test suites,
+validating user flows, and improving software quality.
+
+---
+
+## 🚀 Featured Projects
+
+🔹 QA Playwright Tests  
+Automated tests for form validation using Page Object Model.
+
+🔹 API Tests RestAssured  
+API automation project with Java and JUnit.
+
+🔹 Cypress Project  
+End-to-end tests using Cypress.
+
+---
+
+## 📫 Contact
+
+LinkedIn: https://linkedin.com/in/vitoria-tomazeli
 
 
 ---
